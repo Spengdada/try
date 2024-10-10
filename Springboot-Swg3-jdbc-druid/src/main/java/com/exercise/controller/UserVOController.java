@@ -17,9 +17,9 @@ import java.util.UUID;
     @date:2024/10/8下午2:59
 */
 @RestController
-@RequestMapping("/users")
+@RequestMapping("/userVO")
 @Slf4j
-public class UserController {
+public class UserVOController {
 
     /**
      * 获得指定用户编号的用户

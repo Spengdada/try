@@ -1,0 +1,28 @@
+2024-10-10 16:21:07.720  INFO 25220 --- [main] c.e.s.i.SendemailApplicationTests        : Starting SendemailApplicationTests using Java 17.0.12 on Spengdada with PID 25220 (started by rasa in C:\Users\rasa\Desktop\java\Springboot\Springboot-mybatis)
+2024-10-10 16:21:07.722  INFO 25220 --- [main] c.e.s.i.SendemailApplicationTests        : No active profile set, falling back to default profiles: default
+2024-10-10 16:21:09.463  INFO 25220 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-10-10 16:21:09.479  INFO 25220 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-10-10 16:21:09.914  INFO 25220 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-10-10 16:21:09.967  INFO 25220 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：16:21:09
+2024-10-10 16:21:09.969  INFO 25220 --- [main] c.e.s.i.SendemailApplicationTests        : Started SendemailApplicationTests in 2.527 seconds (JVM running for 3.32)
+2024-10-10 16:21:12.009  INFO 25220 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：16:21:12
+2024-10-10 16:21:12.999  INFO 25220 --- [main] c.e.service.implement.IMailServiceImpl   : form is 2738926962@qq.com
+2024-10-10 16:21:14.007  INFO 25220 --- [main] c.e.service.implement.IMailServiceImpl   : 邮件已经发送。
+2024-10-10 16:21:14.014  INFO 25220 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-10-10 16:21:14.021  INFO 25220 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-10-10 16:25:32.482  INFO 20608 --- [main] c.e.s.i.SendemailApplicationTests        : Starting SendemailApplicationTests using Java 17.0.12 on Spengdada with PID 20608 (started by rasa in C:\Users\rasa\Desktop\java\Springboot\Springboot-mybatis)
+2024-10-10 16:25:32.483  INFO 20608 --- [main] c.e.s.i.SendemailApplicationTests        : No active profile set, falling back to default profiles: default
+2024-10-10 16:25:34.181  INFO 20608 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-10-10 16:25:34.196  INFO 20608 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-10-10 16:25:34.493  INFO 20608 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-10-10 16:25:34.543  INFO 20608 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：16:25:34
+2024-10-10 16:25:34.545  INFO 20608 --- [main] c.e.s.i.SendemailApplicationTests        : Started SendemailApplicationTests in 2.278 seconds (JVM running for 3.102)
+2024-10-10 16:25:36.008  INFO 20608 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：16:25:36
+2024-10-10 16:25:37.441  INFO 20608 --- [main] c.e.service.implement.IMailServiceImpl   : form is 2738926962@qq.com
+2024-10-10 16:25:37.442  INFO 20608 --- [main] c.e.service.implement.IMailServiceImpl   : 邮件已经发送。
+2024-10-10 16:25:38.541  INFO 20608 --- [main] c.e.service.implement.IMailServiceImpl   : form is 2738926962@qq.com
+2024-10-10 16:25:39.011  INFO 20608 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：16:25:39
+2024-10-10 16:25:39.557  INFO 20608 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：16:25:39
+2024-10-10 16:25:39.572  INFO 20608 --- [main] c.e.service.implement.IMailServiceImpl   : 邮件已经发送。
+2024-10-10 16:25:39.584  INFO 20608 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-10-10 16:25:39.589  INFO 20608 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

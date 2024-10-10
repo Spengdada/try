@@ -1,0 +1,232 @@
+2024-10-10 17:30:22.982  INFO 10672 --- [restartedMain] com.exercise.Application                 : Starting Application using Java 17.0.12 on Spengdada with PID 10672 (C:\Users\rasa\Desktop\java\Springboot\Springboot-mybatis\target\classes started by rasa in C:\Users\rasa\Desktop\java\Springboot)
+2024-10-10 17:30:22.983  INFO 10672 --- [restartedMain] com.exercise.Application                 : No active profile set, falling back to default profiles: default
+2024-10-10 17:30:23.024  INFO 10672 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-10-10 17:30:23.025  INFO 10672 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-10-10 17:30:23.934  INFO 10672 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-10-10 17:30:23.947  INFO 10672 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-10 17:30:23.948  INFO 10672 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-10-10 17:30:24.000  INFO 10672 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-10 17:30:24.000  INFO 10672 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 974 ms
+2024-10-10 17:30:24.494  INFO 10672 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-10-10 17:30:24.534  INFO 10672 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-10-10 17:30:24.540  INFO 10672 --- [restartedMain] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-10-10 17:30:24.554  INFO 10672 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-10-10 17:30:24.913  INFO 10672 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-10-10 17:30:24.960  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:30:24
+2024-10-10 17:30:24.963  INFO 10672 --- [restartedMain] com.exercise.Application                 : Started Application in 2.303 seconds (JVM running for 2.871)
+2024-10-10 17:30:24.965 ERROR 10672 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:30:24.965  WARN 10672 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:30:24.965  INFO 10672 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:30:27.015  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:27
+2024-10-10 17:30:29.962  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:30:29
+2024-10-10 17:30:30.009  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:30
+2024-10-10 17:30:33.013  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:33
+2024-10-10 17:30:34.969  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:30:34
+2024-10-10 17:30:36.005  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:36
+2024-10-10 17:30:39.014  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:39
+2024-10-10 17:30:39.972  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:30:39
+2024-10-10 17:30:42.003  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:42
+2024-10-10 17:30:44.972  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:30:44
+2024-10-10 17:30:45.002  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:45
+2024-10-10 17:30:48.008  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:48
+2024-10-10 17:30:49.972  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:30:49
+2024-10-10 17:30:51.015  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:51
+2024-10-10 17:30:54.009  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:54
+2024-10-10 17:30:54.971  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:30:54
+2024-10-10 17:30:57.002  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:30:57
+2024-10-10 17:30:59.969  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:30:59
+2024-10-10 17:31:00.019  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:00
+2024-10-10 17:31:03.016  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:03
+2024-10-10 17:31:04.963  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:04
+2024-10-10 17:31:06.008  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:06
+2024-10-10 17:31:09.010  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:09
+2024-10-10 17:31:09.966  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:09
+2024-10-10 17:31:12.003  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:12
+2024-10-10 17:31:14.966  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:14
+2024-10-10 17:31:15.013  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:15
+2024-10-10 17:31:18.009  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:18
+2024-10-10 17:31:19.969  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:19
+2024-10-10 17:31:21.009  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:21
+2024-10-10 17:31:24.018  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:24
+2024-10-10 17:31:24.974  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:24
+2024-10-10 17:31:27.004  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:27
+2024-10-10 17:31:29.969  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:29
+2024-10-10 17:31:30.016  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:30
+2024-10-10 17:31:33.014  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:33
+2024-10-10 17:31:34.966  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:34
+2024-10-10 17:31:36.007  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:36
+2024-10-10 17:31:36.366  INFO 10672 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-10 17:31:36.366  INFO 10672 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-10 17:31:36.367  INFO 10672 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-10-10 17:31:39.007  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:39
+2024-10-10 17:31:39.972  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:39
+2024-10-10 17:31:42.009  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:42
+2024-10-10 17:31:44.978  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:44
+2024-10-10 17:31:45.007  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:45
+2024-10-10 17:31:48.004  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:48
+2024-10-10 17:31:49.972  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:49
+2024-10-10 17:31:51.003  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:51
+2024-10-10 17:31:54.013  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:54
+2024-10-10 17:31:54.965  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:54
+2024-10-10 17:31:57.010  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:31:57
+2024-10-10 17:31:59.961  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:31:59
+2024-10-10 17:32:00.010  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:00
+2024-10-10 17:32:03.012  INFO 10672 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:03
+2024-10-10 17:32:04.727  INFO 10672 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-10-10 17:32:04.785  INFO 10672 --- [Thread-5] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2024-10-10 17:32:04.846  INFO 10672 --- [restartedMain] com.exercise.Application                 : Starting Application using Java 17.0.12 on Spengdada with PID 10672 (C:\Users\rasa\Desktop\java\Springboot\Springboot-mybatis\target\classes started by rasa in C:\Users\rasa\Desktop\java\Springboot)
+2024-10-10 17:32:04.846  INFO 10672 --- [restartedMain] com.exercise.Application                 : No active profile set, falling back to default profiles: default
+2024-10-10 17:32:05.085  INFO 10672 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-10-10 17:32:05.102  INFO 10672 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 254 ms
+2024-10-10 17:32:05.341  INFO 10672 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-10-10 17:32:05.352  INFO 10672 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-10-10 17:32:05.357  INFO 10672 --- [restartedMain] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-10-10 17:32:05.357  INFO 10672 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2024-10-10 17:32:05.449  INFO 10672 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2024-10-10 17:32:05.452  INFO 10672 --- [pool-2-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:05
+2024-10-10 17:32:05.452  INFO 10672 --- [restartedMain] com.exercise.Application                 : Started Application in 0.629 seconds (JVM running for 103.36)
+2024-10-10 17:32:05.454  INFO 10672 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-10-10 17:32:05.454 ERROR 10672 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:32:05.454  WARN 10672 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:32:05.454  INFO 10672 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:32:05.466  INFO 10672 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2024-10-10 17:32:05.467  INFO 10672 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2024-10-10 17:32:07.846  INFO 22160 --- [restartedMain] com.exercise.Application                 : Starting Application using Java 17.0.12 on Spengdada with PID 22160 (C:\Users\rasa\Desktop\java\Springboot\Springboot-mybatis\target\classes started by rasa in C:\Users\rasa\Desktop\java\Springboot)
+2024-10-10 17:32:07.847  INFO 22160 --- [restartedMain] com.exercise.Application                 : No active profile set, falling back to default profiles: default
+2024-10-10 17:32:07.885  INFO 22160 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-10-10 17:32:07.885  INFO 22160 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-10-10 17:32:08.624  INFO 22160 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2024-10-10 17:32:08.630  INFO 22160 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-10-10 17:32:08.630  INFO 22160 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-10-10 17:32:08.684  INFO 22160 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-10-10 17:32:08.685  INFO 22160 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 799 ms
+2024-10-10 17:32:09.178  INFO 22160 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-10-10 17:32:09.219  INFO 22160 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2024-10-10 17:32:09.225  INFO 22160 --- [restartedMain] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-10-10 17:32:09.237  INFO 22160 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-10-10 17:32:09.480  INFO 22160 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-10-10 17:32:09.529  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:09
+2024-10-10 17:32:09.532  INFO 22160 --- [restartedMain] com.exercise.Application                 : Started Application in 1.972 seconds (JVM running for 2.491)
+2024-10-10 17:32:09.534 ERROR 22160 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:32:09.534  WARN 22160 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:32:09.534  INFO 22160 --- [restartedMain] com.exercise.Application                 : Hello World
+2024-10-10 17:32:12.011  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:12
+2024-10-10 17:32:14.534  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:14
+2024-10-10 17:32:15.015  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:15
+2024-10-10 17:32:17.129  INFO 22160 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-10 17:32:17.129  INFO 22160 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-10-10 17:32:17.129  INFO 22160 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2024-10-10 17:32:17.141  WARN 22160 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2024-10-10 17:32:18.007  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:18
+2024-10-10 17:32:19.536  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:19
+2024-10-10 17:32:21.001  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:21
+2024-10-10 17:32:24.012  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:24
+2024-10-10 17:32:24.538  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:24
+2024-10-10 17:32:25.009  WARN 22160 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2024-10-10 17:32:27.006  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:27
+2024-10-10 17:32:28.716 ERROR 22160 --- [http-nio-8080-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.web.multipart.MultipartException: Current request is not a multipart request] with root cause
+
+org.springframework.web.multipart.MultipartException: Current request is not a multipart request
+	at org.springframework.web.servlet.mvc.method.annotation.RequestPartMethodArgumentResolver.resolveArgument(RequestPartMethodArgumentResolver.java:161) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:121) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:179) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:146) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681) ~[tomcat-embed-core-9.0.56.jar:4.0.FR]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.3.14.jar:5.3.14]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.56.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117) ~[spring-web-5.3.14.jar:5.3.14]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1732) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.56.jar:9.0.56]
+	at java.base/java.lang.Thread.run(Thread.java:842) ~[na:na]
+
+2024-10-10 17:32:29.529  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:29
+2024-10-10 17:32:30.014  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:30
+2024-10-10 17:32:33.010  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:33
+2024-10-10 17:32:34.537  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:34
+2024-10-10 17:32:36.015  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:36
+2024-10-10 17:32:39.013  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:39
+2024-10-10 17:32:39.530  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:39
+2024-10-10 17:32:42.015  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:42
+2024-10-10 17:32:44.534  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:44
+2024-10-10 17:32:45.005  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:45
+2024-10-10 17:32:48.008  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:48
+2024-10-10 17:32:49.533  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:49
+2024-10-10 17:32:51.012  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:51
+2024-10-10 17:32:54.013  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:54
+2024-10-10 17:32:54.529  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:54
+2024-10-10 17:32:57.008  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:32:57
+2024-10-10 17:32:59.534  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:32:59
+2024-10-10 17:33:00.002  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:00
+2024-10-10 17:33:03.003  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:03
+2024-10-10 17:33:04.537  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:04
+2024-10-10 17:33:06.013  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:06
+2024-10-10 17:33:09.004  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:09
+2024-10-10 17:33:09.536  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:09
+2024-10-10 17:33:12.012  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:12
+2024-10-10 17:33:14.532  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:14
+2024-10-10 17:33:15.014  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:15
+2024-10-10 17:33:18.006  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:18
+2024-10-10 17:33:19.532  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:19
+2024-10-10 17:33:21.015  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:21
+2024-10-10 17:33:24.014  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:24
+2024-10-10 17:33:24.534  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:24
+2024-10-10 17:33:27.004  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:27
+2024-10-10 17:33:29.538  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:29
+2024-10-10 17:33:30.010  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:30
+2024-10-10 17:33:33.008  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:33
+2024-10-10 17:33:34.539  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:34
+2024-10-10 17:33:36.008  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:36
+2024-10-10 17:33:39.003  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:39
+2024-10-10 17:33:39.535  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:39
+2024-10-10 17:33:42.000  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:42
+2024-10-10 17:33:44.539  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:44
+2024-10-10 17:33:45.011  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:45
+2024-10-10 17:33:48.011  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:48
+2024-10-10 17:33:49.532  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:49
+2024-10-10 17:33:51.002  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:51
+2024-10-10 17:33:54.010  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:54
+2024-10-10 17:33:54.537  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:54
+2024-10-10 17:33:57.013  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:33:57
+2024-10-10 17:33:59.538  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:33:59
+2024-10-10 17:34:00.005  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:34:00
+2024-10-10 17:34:03.003  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间2：17:34:03
+2024-10-10 17:34:04.535  INFO 22160 --- [pool-1-thread-1] com.exercise.component.ScheduledTasks    : 现在时间：17:34:04
+2024-10-10 17:34:05.276  INFO 22160 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2024-10-10 17:34:05.297  INFO 22160 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

@@ -1,10 +1,7 @@
 package com.exercise.mapper;
 
 import com.exercise.bean.UserMyBatis;
-import org.apache.ibatis.annotations.Insert;
-import org.apache.ibatis.annotations.Mapper;
-import org.apache.ibatis.annotations.Param;
-import org.apache.ibatis.annotations.Select;
+import org.apache.ibatis.annotations.*;
 
 import java.util.Map;
 
@@ -27,7 +24,15 @@ public interface UserMyBatisMapper {
     @Insert("INSERT INTO USERMYBATIS(NAME, AGE) VALUES(#{name}, #{age})")
     int insertByUser(UserMyBatis user);
 
+    @Options(useGeneratedKeys = true,keyProperty = "id",keyColumn = "id")
+    @Insert("INSERT INTO usermybatis(NAME, AGE) VALUES(#{name}, #{age})")
+    int insert2(UserMyBatis userMyBatis);
 
+    @Delete("DELETE FROM usermybatis")
+    int deleteAll();
+
+    @Delete("DELETE FROM usermybatis where id = #{id}")
+    int deleteOne(Long id);
 
 
 }

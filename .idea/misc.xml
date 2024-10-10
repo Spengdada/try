@@ -9,6 +9,9 @@
         <option value="$PROJECT_DIR$/Springboot01/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot02/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-combineSwg3/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-combineSwg3-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-Swg3-jdbc-druid/pom.xml" />
       </list>
     </option>
   </component>
